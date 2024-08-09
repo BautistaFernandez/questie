@@ -1,4 +1,5 @@
 # questie
+![imagen](https://github.com/user-attachments/assets/39cef338-c3a4-44a0-8220-84c4acd5b9e4)
 
 This is a simple web page with a multiple choice and a Q/A section.
 
